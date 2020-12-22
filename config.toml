@@ -1,0 +1,3 @@
+theme = "eureka"
+baseURL = "https://blog.matthew-cloud.com"
+title = "Matthew's Blog Site"
