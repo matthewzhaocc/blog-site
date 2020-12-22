@@ -1,3 +1,29 @@
 theme = "eureka"
 baseURL = "https://blog.matthew-cloud.com"
 title = "Matthew's Blog Site"
+
+paginate = 3
+copyright = "Matthew Cloud 2020"
+enableEmoji = true
+enableGitInfo = false
+summaryLength = 100
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
