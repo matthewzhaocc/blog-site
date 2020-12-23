@@ -19,8 +19,8 @@ publisherLogo = ""
 [hero]
   slogan = "Welcome to Matthew's Tech Blog~"
   # Specify the image name in `assets/images/` folder.
-  imgLeft = "images/hero-left.jpg"
-  imgRight = "images/hero-right.jpg"
+  imgLeft = "image/aws.jpg"
+  imgRight = "image/gcp.jpg"
 
 [math]
   handler = "katex"
