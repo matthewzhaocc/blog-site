@@ -12,3 +12,6 @@ featuredVideo = ""
 featuredImage = ""
 draft = false
 +++
+
+### First Post
+lorem ipsum what shall I write about
