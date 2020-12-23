@@ -12,3 +12,8 @@
   name = "Docs"
   url = "/docs/"
   weight = 3
+
+[[main]]
+  name = "Authors"
+  url = "/author/"
+  weight = 4
