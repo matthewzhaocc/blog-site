@@ -27,3 +27,5 @@ defaultContentLanguageInSubdir = false
   tag = "tags"
   series = "series"
   author = "authors"
+
+staticDir = ["static"]
